@@ -1,0 +1,88 @@
+.bir{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 650px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.bir div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: coral;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 2px solid;
+}
+header div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: coral;
+}
+main{
+    width: 650px;
+    margin: 0 auto;
+    border-radius: 50px;
+    border: 2px solid;
+    margin-top: 50px;
+}
+main h1{
+    margin-top: 60px;
+    text-align: center;
+}
+.besh{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+.olti{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    justify-content: center;
+    width: 700px;
+    height: 200px;
+}
+input{
+    width: 300px;
+    margin: auto;
+}
+input:focus{
+    border: 2px solid red;
+}
+button{
+    display: flex;
+    justify-content: center;
+}
+button:active{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    background-color: red;
+}
+.uct{
+    margin-bottom: 20px;
+    margin-left: 100px;
+  
+}
+img{
+    cursor: pointer;
+}
+input{
+    height: 50px;
+}
+button{
+    border-radius: 50px;
+    background-color: aqua;
+}
+.ib{
+    background-color: blue;
+}
